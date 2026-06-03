@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "birch_forest": "2026-05-29 22:39:42 +0000",
+      "plains": "2026-05-29 22:37:39 +0000"
+    },
+    "done": false
+  }
+}

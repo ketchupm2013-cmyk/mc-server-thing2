@@ -1,0 +1,176 @@
+[14:35:08] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[14:35:08] [Server thread/INFO]: Loading properties
+[14:35:08] [Server thread/INFO]: Default game type: SURVIVAL
+[14:35:08] [Server thread/INFO]: This server is running Paper version git-Paper-1620 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[14:35:09] [Server thread/INFO]: Debug logging is disabled
+[14:35:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:35:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:35:09] [Server thread/INFO]: Generating keypair
+[14:35:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:35:09] [Server thread/INFO]: Using epoll channel type
+[14:35:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:35:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:35:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:35:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:35:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:35:09] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[14:35:09] [Server thread/INFO]: Preparing level "world"
+[14:35:09] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:35:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:35:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:35:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:35:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:35:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:35:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:35:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:35:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:35:09] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:35:09] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:35:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[14:35:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:35:09] [Server thread/INFO]: Mob Spawn Range: 4
+[14:35:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:35:09] [Server thread/INFO]: Random Lighting Updates: false
+[14:35:09] [Server thread/INFO]: Structure Info Saving: true
+[14:35:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:35:09] [Server thread/INFO]: Max TNT Explosions: 100
+[14:35:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:35:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:35:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:35:09] [Server thread/INFO]: View Distance: 5
+[14:35:09] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:35:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:35:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:35:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:35:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:35:10] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:35:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[14:35:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:35:10] [Server thread/INFO]: Mob Spawn Range: 4
+[14:35:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:35:10] [Server thread/INFO]: Random Lighting Updates: false
+[14:35:10] [Server thread/INFO]: Structure Info Saving: true
+[14:35:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:35:10] [Server thread/INFO]: Max TNT Explosions: 100
+[14:35:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:35:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:35:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:35:10] [Server thread/INFO]: View Distance: 5
+[14:35:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:35:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:35:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:35:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:35:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:35:10] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:35:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:35:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[14:35:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:35:10] [Server thread/INFO]: Mob Spawn Range: 4
+[14:35:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:35:10] [Server thread/INFO]: Random Lighting Updates: false
+[14:35:10] [Server thread/INFO]: Structure Info Saving: true
+[14:35:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:35:10] [Server thread/INFO]: Max TNT Explosions: 100
+[14:35:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:35:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:35:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:35:10] [Server thread/INFO]: View Distance: 5
+[14:35:10] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:35:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:35:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:35:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:35:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:35:10] [Server thread/INFO]: Preparing start region for level 0 (Seed: -597326319423510517)
+[14:35:11] [Server thread/INFO]: Preparing spawn area: 6%
+[14:35:11] [Server thread/INFO]: Preparing start region for level 1 (Seed: -597326319423510517)
+[14:35:11] [Server thread/INFO]: Preparing start region for level 2 (Seed: -597326319423510517)
+[14:35:11] [Server thread/INFO]: Done (2.362s)! For help, type "help" or "?"
+[14:35:11] [Server thread/INFO]: Timings Reset
+[14:35:37] [User Authenticator #1/INFO]: UUID of player coolkidd13 is 485b3097-4ddf-3eb8-a593-94a448f48267
+[14:35:37] [Server thread/INFO]: coolkidd13[/0:0:0:0:0:0:0:1%0:54440] logged in with entity id 55 at ([world]-311.298340242665, 66.0, 95.27975997597844)
+[14:35:41] [Server thread/INFO]: coolkidd13 lost connection: Disconnected
+[14:35:41] [Server thread/INFO]: coolkidd13 left the game
+[14:36:00] [User Authenticator #1/INFO]: UUID of player godofdoom is 179d0ed0-12cc-3cf1-9fdd-60ccfcb0d7e7
+[14:36:01] [Server thread/INFO]: godofdoom[/0:0:0:0:0:0:0:1%0:43248] logged in with entity id 78 at ([world]-363.30325349971474, 85.27244085565911, 92.75923960608074)
+[14:40:51] [Server thread/INFO]: You whisper to godofdoom: hi bum
+[14:41:12] [Server thread/INFO]: godofdoom fell out of the world
+[14:41:12] [Server thread/INFO]: Killed godofdoom
+[14:43:11] [Server thread/INFO]: 'tp' is not a valid number
+[14:43:27] [Server thread/INFO]: godofdoom issued server command: /fill ~~~~10 ~10 ~10 tnt
+[14:43:33] [Server thread/INFO]: godofdoom issued server command: /fill ~~~~10 ~10 ~10 tnt
+[14:44:16] [Server thread/INFO]: The number you have entered (-100000.00) is too small, it must be at least -4096
+[14:44:48] [Server thread/INFO]: godofdoom issued server command: /summon tnt ~ ~1 ~ {fuse:80,ExplosionPower:15}
+[14:44:55] [Server thread/INFO]: godofdoom issued server command: /summon tnt ~ ~1 ~ {fuse:80,ExplosionPower:15}
+[14:44:58] [Server thread/INFO]: godofdoom issued server command: /summon tnt ~ ~1 ~ {fuse:80,ExplosionPower:15}
+[14:44:59] [Server thread/INFO]: godofdoom issued server command: /summon tnt ~ ~1 ~ {fuse:80,ExplosionPower:15}
+[14:45:00] [Server thread/INFO]: godofdoom issued server command: /summon tnt ~ ~1 ~ {fuse:80,ExplosionPower:15}
+[14:45:01] [Server thread/INFO]: godofdoom issued server command: /summon tnt ~ ~1 ~ {fuse:80,ExplosionPower:15}
+[14:45:02] [Server thread/INFO]: godofdoom issued server command: /summon tnt ~ ~1 ~ {fuse:80,ExplosionPower:15}
+[14:45:04] [Server thread/INFO]: godofdoom issued server command: /summon tnt ~ ~1 ~ {fuse:80,ExplosionPower:15}
+[14:45:16] [Server thread/INFO]: Teleported godofdoom to -371.6290356782457, -1000.0, 54.86407567783301
+[14:45:17] [Server thread/INFO]: godofdoom issued server command: /fill ~-5 ~ ~-5 ~5 ~10 ~5 tnt
+[14:45:19] [Server thread/INFO]: godofdoom fell out of the world
+[14:45:37] [Server thread/INFO]: godofdoom issued server command: /fill ~-5 ~ ~-5 ~5 ~10 ~5 tnt
+[14:46:25] [Server thread/INFO]: godofdoom issued server command: /fill ~-5 ~ ~-5 ~5 ~10 ~5 tnt
+[14:49:06] [Server thread/INFO]: godofdoom lost connection: Disconnected
+[14:49:06] [Server thread/INFO]: godofdoom left the game
+[14:51:38] [User Authenticator #2/INFO]: UUID of player godofdoom is 179d0ed0-12cc-3cf1-9fdd-60ccfcb0d7e7
+[14:51:38] [Server thread/INFO]: godofdoom[/0:0:0:0:0:0:0:1%0:51580] logged in with entity id 18954 at ([world]-393.87067491438705, 63.834003255378505, 46.23274584087197)
+[14:52:42] [Server thread/INFO]: godofdoom lost connection: Disconnected
+[14:52:42] [Server thread/INFO]: godofdoom left the game
+[15:02:05] [User Authenticator #3/INFO]: UUID of player godofdoom is 179d0ed0-12cc-3cf1-9fdd-60ccfcb0d7e7
+[15:02:05] [Server thread/INFO]: godofdoom[/0:0:0:0:0:0:0:1%0:42484] logged in with entity id 19258 at ([world]-370.89789669992444, 15.788419538331253, 41.799357654229205)
+[15:02:11] [Server thread/INFO]: godofdoom issued server command: /fill ~-5 ~ ~-5 ~5 ~10 ~5 tnt
+[15:02:28] [Server thread/INFO]: godofdoom issued server command: /fill ~-5 ~ ~-5 ~5 ~10 ~5 tnt
+[15:02:49] [Server thread/INFO]: godofdoom issued server command: /fill ~-5 ~ ~-5 ~5 ~10 ~5 tnt
+[15:02:55] [Server thread/INFO]: godofdoom issued server command: /fill ~-5 ~ ~-5 ~5 ~10 ~5 tnt
+[15:03:26] [Server thread/INFO]: godofdoom lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[15:03:26] [Server thread/INFO]: godofdoom left the game
+[15:03:38] [User Authenticator #4/INFO]: UUID of player godofdoom is 179d0ed0-12cc-3cf1-9fdd-60ccfcb0d7e7
+[15:03:39] [Server thread/INFO]: godofdoom[/0:0:0:0:0:0:0:1%0:51876] logged in with entity id 30036 at ([world]-368.3359830901027, 29.112503295300264, 47.333259869366884)
+[15:03:54] [Server thread/INFO]: godofdoom lost connection: Disconnected
+[15:03:54] [Server thread/INFO]: godofdoom left the game
+[15:03:58] [User Authenticator #4/INFO]: UUID of player godofdoom is 179d0ed0-12cc-3cf1-9fdd-60ccfcb0d7e7
+[15:03:58] [Server thread/INFO]: godofdoom[/0:0:0:0:0:0:0:1%0:55910] logged in with entity id 38520 at ([world]-369.64019811025963, 29.112503295300264, 48.50128608806029)
+[15:06:31] [Server thread/INFO]: godofdoom issued server command: //fill ~-5 ~ ~-5 ~5 ~10 ~5 tnt
+[15:06:35] [Server thread/INFO]: godofdoom issued server command: /fill ~-5 ~ ~-5 ~5 ~10 ~5 tnt
+[15:07:05] [Server thread/INFO]: godofdoom lost connection: Disconnected
+[15:07:05] [Server thread/INFO]: godofdoom left the game
+[15:07:21] [User Authenticator #5/INFO]: UUID of player godofdoom is 179d0ed0-12cc-3cf1-9fdd-60ccfcb0d7e7
+[15:07:21] [Server thread/INFO]: godofdoom[/0:0:0:0:0:0:0:1%0:59402] logged in with entity id 54355 at ([world]-354.9942711584065, 7.699999269064063, 32.66961581922425)
+[15:07:28] [Server thread/INFO]: godofdoom issued server command: /fill ~-5 ~ ~-5 ~5 ~10 ~5 tnt
+[15:07:41] [Server thread/INFO]: godofdoom issued server command: /fill ~-5 ~ ~-5 ~5 ~10 ~5 tnt
+[15:07:49] [Server thread/INFO]: godofdoom issued server command: /fill ~-5 ~ ~-5 ~5 ~10 ~5 tnt
+[15:07:56] [Server thread/INFO]: godofdoom issued server command: /fill ~-5 ~ ~-5 ~5 ~10 ~5 tnt
+[15:07:59] [Server thread/INFO]: godofdoom issued server command: /fill ~-5 ~ ~-5 ~5 ~10 ~5 tnt
+[15:08:04] [Server thread/INFO]: godofdoom issued server command: /fill ~-5 ~ ~-5 ~5 ~10 ~5 tnt
+[15:08:08] [Server thread/INFO]: godofdoom issued server command: /fill ~-5 ~ ~-5 ~5 ~10 ~5 tnt
+[15:08:13] [Server thread/INFO]: godofdoom issued server command: /fill ~-5 ~ ~-5 ~5 ~10 ~5 tnt
+[15:08:41] [Server thread/INFO]: godofdoom lost connection: Disconnected
+[15:08:41] [Server thread/INFO]: godofdoom left the game
+[15:08:52] [User Authenticator #6/INFO]: UUID of player godofdoom is 179d0ed0-12cc-3cf1-9fdd-60ccfcb0d7e7
+[15:08:52] [Server thread/INFO]: godofdoom[/0:0:0:0:0:0:0:1%0:36820] logged in with entity id 66177 at ([world]-373.3687812827441, 20.112567117474974, 36.59952374730952)
+[15:09:12] [Server thread/INFO]: godofdoom lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[15:09:12] [Server thread/INFO]: godofdoom left the game
+[15:11:18] [User Authenticator #7/INFO]: UUID of player godofdoom is 179d0ed0-12cc-3cf1-9fdd-60ccfcb0d7e7
+[15:11:18] [Server thread/INFO]: godofdoom[/0:0:0:0:0:0:0:1%0:38036] logged in with entity id 77052 at ([world]-373.3687812827441, 20.112567117474974, 36.59952374730952)
+[15:11:26] [Server thread/WARN]: godofdoom moved too quickly! -1.2439109896213836,6.937520841563526,7.906931392973917
